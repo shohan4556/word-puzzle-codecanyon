@@ -1,0 +1,18 @@
+{
+  "title": "Nature",
+  "description": "Find the words related to Nature",
+  "icon": "Nature.png",
+  "locked": false,
+  "chapters": [
+    ["Tree", "Flower", "Grass", "Leaf"],
+    ["Mountain", "River", "Ocean", "Lake"],
+    ["Sun", "Moon", "Stars", "Cloud"],
+    ["Forest", "Desert", "Jungle", "Beach"],
+    ["Rain", "Snow", "Wind", "Thunder"],
+    ["Rock", "Soil", "Sand", "Mud"],
+    ["Bird", "Fish", "Deer", "Insect"],
+    ["Volcano", "Canyon", "Waterfall", "Valley"],
+    ["Bush", "Meadow", "Island", "Glacier"],
+    ["Pond", "Reef", "Cave", "Hill"]
+  ]
+}

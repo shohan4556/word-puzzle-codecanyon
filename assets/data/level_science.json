@@ -1,0 +1,18 @@
+{
+  "title": "Science",
+  "description": "Find the words related to Science",
+  "icon": "Science.png",
+  "locked": false,
+  "chapters": [
+    ["Physics", "Chemistry", "Biology", "Geology"],
+    ["Astronomy", "Botany", "Zoology", "Ecology"],
+    ["Experiment", "Laboratory", "Microscope", "Telescope"],
+    ["Atom", "Molecule", "Cell", "Organism"],
+    ["Gravity", "Force", "Energy", "Motion"],
+    ["DNA", "Gene", "Chromosome", "Protein"],
+    ["Planet", "Star", "Galaxy", "Universe"],
+    ["Mineral", "Rock", "Fossil", "Crystal"],
+    ["Thermometer", "Barometer", "Compass", "Scale"],
+    ["Acid", "Base", "Salt", "Solution"]
+  ]
+}

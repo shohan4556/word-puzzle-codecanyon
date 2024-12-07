@@ -1,0 +1,32 @@
+{
+  "title": "Farm",
+  "description": "Find the words related to Farm",
+  "icon": "Farm.png",
+  "locked": false,
+  "chapters": [
+    ["Cow", "Sheep", "Pig", "Chicken"],
+    ["Horse", "Goat", "Duck", "Tractor"],
+    ["Barn", "Hay", "Corn", "Farmhouse"],
+    ["Egg", "Vegetable", "Milk", "Wheat"],
+    ["Rooster", "Pond", "Scarecrow", "Fence"],
+    ["Harvest", "Bale", "Chicken", "Crop"],
+    ["Orchard", "Rabbit", "Farmers", "Stable"],
+    ["Calf", "Plow", "Hive", "Silo"],
+    ["Shear", "Chicken", "Cabbage", "Field"],
+    ["Grain", "Beehive", "Garden", "Seed"],
+    ["Apple", "Banana", "Cake", "Noodles", "Jam"],
+    ["Kiwi", "Lemon", "Mango", "Noodles", "Orange"],
+    ["Donut", "Egg", "Fish", "Grapes", "Honey"],
+    ["Pizza", "Quiche", "Rice", "Sausage", "Tomato"],
+    ["Bread", "Butter", "Cheese", "Doughnut", "Eggplant"],
+    ["Garlic", "Hamburger", "Ice Cream", "Jelly", "Ketchup"],
+    ["Lettuce", "Milk", "Nuts", "Olive", "Pasta"],
+    ["Pineapple", "Strawberry", "Watermelon", "Carrot"],
+    ["Cabbage", "Cauliflower", "Cucumber", "Eggplant", "Lettuce"],
+    ["Mushroom", "Onion", "Pepper", "Potato", "Pumpkin", "Radish"],
+    ["Spinach", "Tomato", "Turnip", "Asparagus", "Beetroot"],
+    ["Brussels Sprouts", "Cabbage"],
+    [ "Carrot", "Cauliflower", "Celery", "Corn"],
+    [ "Peach", "Broccoli", "Celery"]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Emotions",
+  "description": "Find the words related to Emotions",
+  "icon": "Emotions.png",
+  "locked": false,
+  "chapters": [
+    ["Happy", "Sad", "Angry", "Excited"],
+    ["Surprised", "Scared", "Calm", "Confused"],
+    ["Proud", "Lonely", "Bored"],
+    ["Nervous", "Grateful", "Content", "Curious"],
+    ["Frustrated", "Hopeful", "Jealous", "Shy"],
+    ["Eager", "Guilt", "Relieved", "Insecure"],
+    ["Affectionate", "Anxious", "Envious", "Amused"],
+    ["Optimistic", "Disappointed", "Joyful"],
+    ["Regretful", "Silly", "Sorrowful", "Peaceful"],
+    ["Restless", "Vulnerable", "Indifferent", "Pensive"],
+    ["Blissful", "Agitated", "Cheerful"],
+    ["Gloomy", "Worried", "Serene", "Delighted"],
+    ["Remorseful", "Embarrassed","Empathetic", "Enthusiastic"],
+    ["Fulfilled", "Irritated", "Loving", "Melancholy"],
+    ["Overwhelmed", "Pity", "Satisfied", "Sentimental"],
+    ["Stressed", "Tense", "Thankful", "Uncomfortable"],
+    ["Vengeful", "Wistful", "Yearning", "Zestful"],
+    ["Apathetic", "Bitter", "Blissful", "Cautious"],
+    ["Compassionate", "Disgusted", "Energetic", "Fascinated"],
+    ["Homesick", "Impatient", "Intrigued", "Lethargic"],
+    ["Miserable", "Nostalgic", "Overjoyed", "Panicked"],
+    ["Pessimistic", "Relaxed", "Skeptical", "Tired"],
+    ["Vivacious", "Wistful", "Zealous", "Zany"]
+  ]
+}

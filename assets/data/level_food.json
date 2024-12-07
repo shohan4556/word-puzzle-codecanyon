@@ -1,0 +1,25 @@
+{
+  "title": "Food",
+  "description": "Find the words related to Food",
+  "icon": "Food.png",
+  "locked": false,
+  "chapters": [
+    ["Apple", "Pizza", "Pasta", "Burger"],
+    ["Salad", "Cake", "IceCream", "Sandwich"],
+    ["Chocolate", "Soup", "Fruit", "Cheese"],
+    ["Chicken", "Fish", "Steak", "Sushi"],
+    ["Rice", "Bread", "Egg", "Potato"],
+    ["Vegetable", "Smoothie", "Cookie", "Yogurt"],
+    ["Cereal", "Pancake", "Noodle", "Taco"],
+    ["Milk", "Juice", "Coffee", "Tea"],
+    ["Donut", "Popcorn", "Grapes", "Avocado"],
+    ["Hamburger", "Hotdog", "Burrito", "Pie"],
+    ["Pie", "Pudding", "Cupcake", "Cheesecake"],
+    ["Donut", "Macaron", "Tiramisu", "Mousse"],
+    ["Sorbet", "Gelato", "Fudge", "Truffle"],
+    ["Caramel", "Candy", "Lollipop", "Toffee"],
+    ["Marshmallow", "Gummy", "Jelly", "Licorice"],
+    ["Peanut", "Almond", "Cashew", "Pistachio"],
+    ["Walnut", "Pecan", "Hazelnut", "Macadamia"]
+  ]
+}

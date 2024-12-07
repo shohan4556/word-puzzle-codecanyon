@@ -1,0 +1,19 @@
+{
+  "title": "Astronomy",
+  "description": "Find the words related to Astronomy",
+  "icon": "Astronomy.png",
+  "locked": false,
+  "chapters": [
+    ["Galaxy", "Nebula", "Planet"],
+    ["Star", "Comet", "Asteroid", "Meteor"],
+    ["Eclipse", "Orbit", "Telescope", "Universe"],
+    ["Gravity", "BlackHole", "SolarSystem"],
+    ["Supernova", "MilkyWay", "Aurora"],
+    ["Satellite", "Astronomy", "Equinox", "Solstice"],
+    ["Hubble", "Cosmos", "Astronaut", "Spacecraft", "Comet"],
+    ["Quasar", "RedGiant", "WhiteDwarf", "Pulsar"],
+    ["Moon", "Sunspot", "Astrophysics"],
+    ["Cosmic", "Light", "Celestial", "Star"],
+    ["Gravity", "Aurora", "Astronomy", "Cosmos" ]
+  ]
+}

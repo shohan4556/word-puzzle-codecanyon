@@ -1,0 +1,18 @@
+{
+  "title": "Tools",
+  "description": "Find the words related to Tools",
+  "icon": "Tools.png",
+  "locked": false,
+  "chapters": [
+    ["Hammer", "Screwdriver", "Wrench", "Pliers"],
+    ["Saw", "Drill", "Chisel", "Level"],
+    ["TapeMeasure", "Sandpaper", "Ladder", "Clamp"],
+    ["File", "Mallet", "Anvil", "Vise"],
+    ["Shovel", "Rake", "Hoe", "Axe"],
+    ["Sledgehammer", "Crowbar", "UtilityKnife", "WireCutter"],
+    ["HexKey", "SocketWrench", "PipeWrench", "BoltCutter"],
+    ["Paintbrush", "Roller", "Trowel", "PuttyKnife"],
+    ["Workbench", "Toolbox", "SafetyGoggles", "Gloves"],
+    ["WeldingTorch", "SolderingIron", "HeatGun", "Multimeter"]
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sports",
+  "description": "Find the words related to Sports",
+  "icon": "Sports.png",
+  "locked": false,
+  "chapters": [
+    ["Football", "Basketball", "Soccer", "Baseball"],
+    ["Tennis", "Golf", "Volleyball", "Swimming"],
+    ["Hockey", "Cricket", "Rugby", "Badminton"],
+    ["Boxing", "Skating", "Cycling", "Wrestling"],
+    ["Athletics", "Archery", "TableTennis", "Rowing"],
+    ["Skiing", "Snowboarding", "Surfing", "Diving"],
+    ["Running", "Jogging", "Jumping", "Throwing"],
+    ["Gymnastics", "MartialArts", "Weightlifting", "Fencing"],
+    ["Karate", "Judo", "Yoga", "Pilates"],
+    ["Bowling", "Darts", "Snooker", "Billiards"]
+  ]
+}

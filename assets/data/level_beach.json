@@ -1,0 +1,20 @@
+{
+  "title": "Beach",
+  "description": "Find the words related to Beach",
+  "icon": "Beach.png",
+  "locked": false,
+  "chapters": [
+    ["Sand", "Wave", "Shell", "Tide"],
+    ["Seashell", "Sun", "Surf", "Dune"],
+    ["Beachball", "Lifeguard", "Umbrella", "Swim"],
+    ["Snorkel", "Sunburn", "Towel", "Boardwalk"],
+    ["Crab", "Pier", "Starfish", "Jellyfish"],
+    ["Seagull", "Driftwood", "Seawater", "Sunscreen"],
+    ["Beach", "Cooler", "Volleyball", "Flipflop"],
+    ["Lifebuoy", "Snacks", "Shoreline", "Fishing"],
+    ["Parasail", "Picnic", "Reef"],
+    ["Lighthouse", "Cove", "Tanning", "Wetsuit"],
+    ["Seaside", "Shellfish", "Bonfire", "Tidepool"],
+    ["Parasail", "Picnic", "Reef", "Sunny"]
+  ]
+}
